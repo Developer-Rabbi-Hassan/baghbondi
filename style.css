@@ -1,0 +1,17 @@
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+.home{
+    background: #fff;
+    width: 200px;
+    margin: 0 auto;
+}
+.my-gm{
+    height: 50px;
+    width: 50px;
+    border: 2px solid blueviolet;
+    float: left;
+    text-align: center;
+    
+}
